@@ -23,7 +23,7 @@ Repository này là phần back-end của hệ thống.
 + Nhập xuất dữ liệu từ file *.json, *.csv
 + Cho phép kết nối với hệ thống tiếp nhận lịch đặt sân từ phía khách hàng
 + Định hướng tiếp tục phát triển phần giao diện của hệ thống, kết hợp giao diện font-end vào phần back-end đã xây dựng được. Giao diện định hướng kết hợp vào trang web sử dụng các công nghệ và công cụ sau: HTML5, CSS3, Javascript, Angular, C#, Figma, AdobeXD.
-
++ Source mã nguồn: Phần front-end định hướng phát triển trang web: https://drive.google.com/drive/folders/1lCehEJJoB1d2taodOy_U6TMzWBeApp7K?usp=sharing
 
 # CÔNG NGHỆ SỬ DỤNG
 Ngôn ngữ: JavaScript, PHP, MySQL
